@@ -3,7 +3,7 @@
 
 . ## Para Subititulos
 . ** Para Negritas
-. __ Cursiva ___
+__ Cursiva ___
 Actividades de Pencil
 
 
